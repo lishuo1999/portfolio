@@ -36,6 +36,7 @@
 ><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 ><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=JQuery&logoColor=white" />
 ><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=JQuery&logoColor=white" />
+><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
 >
 >[프로젝트 상세 설명](https://github.com/lishuo1999/CapTeen_Sejong)
 
