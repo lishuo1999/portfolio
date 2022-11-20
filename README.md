@@ -26,28 +26,23 @@
 
 ## Projects
 ### 1. [기업의 정보보안 평가 도구](https://github.com/lishuo1999/CapTeen_Sejong)
->세종대학교 Capstone디자인  (팀 프로젝트)  
->개발 기간    
->```2022.3 ~ 2022.6``` 
+>- 세종대학교 Capstone디자인  (팀 프로젝트)  
+>- 제작 기간 : ```2022.3 ~ 2022.6``` 
+>- 참여 인원 : ```4명```
+>- 역할 : ```Front-end / Back-end``` 
 >
->기술 스택    
-><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=JQuery&logoColor=white" />
-><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=JQuery&logoColor=white" />
-><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
+>- 기술 스택  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=JQuery&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=JQuery&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
 >
 >[프로젝트 상세 설명](https://github.com/lishuo1999/CapTeen_Sejong)
 
 ---
 
 ### 2. [침해사고조사 스크립트 개발](https://github.com/lishuo1999/K-Shield_D6)
->케이쉴드 주니어 8기 침해사고 대응 D반 6조 (팀 프로젝트)  
->개발 기간    
->```2022.7 ~ 2022.8```  
+>- 케이쉴드 주니어 8기 침해사고 대응 D반 6조 (팀 프로젝트)  
+>- 제작 기간 : ```2022.7 ~ 2022.8```  
+>- 참여 인원 : ```5명```
+>- 역할 : ```User_info.py / main.py 작성``` 
 >  
->기술 스택    
-><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+>- 기술 스택  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 >
 >[프로젝트 상세 설명](https://github.com/lishuo1999/K-Shield_D6)
