@@ -1,4 +1,4 @@
-# portfoilo
+# portfolio
 >이석(Lee Seok) - 포트폴리오
 </br>
 
