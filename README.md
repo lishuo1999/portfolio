@@ -20,8 +20,8 @@
 </br>
 
 ## Contact
-- 이메일: aixue1999@gmail.com
-- 깃헙: https://github.com/lishuo1999
+- Email: aixue1999@gmail.com
+- Github: https://github.com/lishuo1999
 
 </br>
 
@@ -47,3 +47,15 @@
 >- 기술 스택  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 >
 >[프로젝트 상세 설명](https://github.com/lishuo1999/K-Shield_D6)
+
+---
+
+### 3. [MS Exchange 서버 공격 시연  침해사고 분석](https://github.com/lishuo1999/SK15_Forensic_Project)
+>- sk쉴더스 루키즈 15기 포렌식조 (팀 프로젝트)  
+>- 제작 기간 : ```2023.11 ~ 2023.12```  
+>- 참여 인원 : ```10명```
+>- 역할 : ```User_info.py / main.py 작성``` 
+>  
+>- 기술 스택  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+>
+>[프로젝트 상세 설명](https://github.com/lishuo1999/SK15_Forensic_Project)
