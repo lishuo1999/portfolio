@@ -29,7 +29,7 @@
 ## Projects
 ### 1. [기업의 정보보안 평가 도구](https://github.com/lishuo1999/CapTeen_Sejong)
 >- 세종대학교 Capstone디자인  (팀 프로젝트)  
->- 제작 기간 : ```2022.3 ~ 2022.6``` 
+>- 진행 기간 : ```2022.3 ~ 2022.6``` 
 >- 참여 인원 : ```4명```
 >- 역할 : ```Front-end / Back-end``` 
 >
@@ -41,7 +41,7 @@
 
 ### 2. [침해사고조사 스크립트 개발](https://github.com/lishuo1999/K-Shield_D6)
 >- 케이쉴드 주니어 8기 침해사고 대응 D반 6조 (팀 프로젝트)  
->- 제작 기간 : ```2022.7 ~ 2022.8```  
+>- 진행 기간 : ```2022.7 ~ 2022.8```  
 >- 참여 인원 : ```5명```
 >- 역할 : ```User_info.py / main.py 작성``` 
 >  
@@ -51,9 +51,9 @@
 
 ---
 
-### 3. [MS Exchange 서버 공격 시연  침해사고 분석](https://github.com/lishuo1999/SK15_Forensic_Project)
+### 3. [MS Exchange 서버 공격 시연 및 침해사고 분석](https://github.com/lishuo1999/SK15_Forensic_Project)
 >- SK쉴더스 루키즈 15기 포렌식조 (팀 프로젝트)  
->- 제작 기간 : ```2023.11 ~ 2023.12```  
+>- 진행 기간 : ```2023.11 ~ 2023.12```  
 >- 참여 인원 : ```10명```
 >- 역할 : ```User_info.py / main.py 작성``` 
 >  
