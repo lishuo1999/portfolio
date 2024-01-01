@@ -56,7 +56,5 @@
 >- 진행 기간 : ```2023.11 ~ 2023.12```  
 >- 참여 인원 : ```10명```
 >- 역할 : ```AD 공격 / 포렌식 분석 / 보고서 작성``` 
->  
->- 기술 스택  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 >
 >[프로젝트 상세 설명](https://github.com/lishuo1999/SK15_Forensic_Project)
