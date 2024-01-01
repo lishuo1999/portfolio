@@ -55,7 +55,7 @@
 >- SK쉴더스 루키즈 15기 포렌식조 (팀 프로젝트)  
 >- 진행 기간 : ```2023.11 ~ 2023.12```  
 >- 참여 인원 : ```10명```
->- 역할 : ```User_info.py / main.py 작성``` 
+>- 역할 : ```AD 공격 / 포렌식 분석 / 보고서 작성``` 
 >  
 >- 기술 스택  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
 >
