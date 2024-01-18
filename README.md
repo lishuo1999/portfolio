@@ -51,7 +51,7 @@
 
 ---
 
-### 3. [슬랙 API 활용한 개인정보 유출 모니터링 서비스 개발](https://github.com/lishuo1999/SK15_Forensic_Project)
+### 3. [슬랙 API 활용한 개인정보 유출 모니터링 서비스 개발](https://github.com/lishuo1999/SK15_miniProject1)
 >- SK쉴더스 루키즈 15기 미니프로젝트 (팀 프로젝트)
 >
 >- 진행 기간 : ```2023.07.20 ~ 2023.07.21```  
@@ -64,7 +64,7 @@
 
 ---
 
-### 4. [웹 페이지 취약점 진단 및 결과보고서 작성](https://github.com/lishuo1999/SK15_Forensic_Project)
+### 4. [웹 페이지 취약점 진단 및 결과보고서 작성](https://github.com/lishuo1999/SK15_ModuleProject)
 >- SK쉴더스 루키즈 15기 모듈프로젝트 (팀 프로젝트)
 >
 >- 진행 기간 : ```2023.08.31 ~ 2023.09.06```  
@@ -75,7 +75,7 @@
 
 ---
 
-### 5. [윈도우 침해사고 분석보고서 작성](https://github.com/lishuo1999/SK15_Forensic_Project)
+### 5. [윈도우 침해사고 분석보고서 작성](https://github.com/lishuo1999/SK15_miniProject2)
 >- SK쉴더스 루키즈 15기 미니프로젝트 (팀 프로젝트)
 >
 >- 진행 기간 : ```2023.10.20 ~ 2023.10.23```  
