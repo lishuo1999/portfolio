@@ -92,7 +92,5 @@
 >- 진행 기간 : ```2023.11 ~ 2023.12```  
 >- 참여 인원 : ```10명```
 >- 역할 : ```(팀프로젝트) Active Directory 공격 / 침해사고 분석 / 분석보고서 작성```</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```(실습과제) Windows & Linux 침해사고 분석 및 분석보고서 작성```
-
-
 >
 >[프로젝트 상세 설명](https://github.com/lishuo1999/SK15_Forensic_Project)
