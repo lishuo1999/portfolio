@@ -43,7 +43,7 @@
 >- 케이쉴드 주니어 8기 침해사고 대응 D반 6조 (팀 프로젝트)  
 >- 진행 기간 : ```2022.7 ~ 2022.8```  
 >- 참여 인원 : ```5명```
->- 역할 : ```User_info.py / main.py 작성``` 
+>- 역할 : ```User_info.py / main.py 개발``` 
 >  
 >- 기술 스택  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 >
@@ -56,7 +56,7 @@
 >
 >- 진행 기간 : ```2023.07.20 ~ 2023.07.21```  
 >- 참여 인원 : ```6명```
->- 역할 : ```result 페이지 작성``` 
+>- 역할 : ```result 페이지 개발``` 
 >
 >- 기술 스택  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 >
