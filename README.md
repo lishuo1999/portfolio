@@ -75,7 +75,7 @@
 
 ---
 
-### 5. [침해사고 분석 보고서 작성](https://github.com/lishuo1999/SK15_Forensic_Project)
+### 5. [윈도우 침해사고 분석 보고서 작성](https://github.com/lishuo1999/SK15_Forensic_Project)
 >- SK쉴더스 루키즈 15기 미니프로젝트 (팀 프로젝트)
 >
 >- 진행 기간 : ```2023.10.20 ~ 2023.10.23```  
