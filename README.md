@@ -64,23 +64,23 @@
 
 ---
 
-### 4. [웹 페이지 취약점 진단 및 보고서 작성](https://github.com/lishuo1999/SK15_Forensic_Project)
+### 4. [웹 페이지 취약점 진단 및 결과보고서 작성](https://github.com/lishuo1999/SK15_Forensic_Project)
 >- SK쉴더스 루키즈 15기 모듈프로젝트 (팀 프로젝트)
 >
 >- 진행 기간 : ```2023.08.31 ~ 2023.09.06```  
 >- 참여 인원 : ```6명```
->- 역할 : ```정보 누출, 악성 콘텐츠, CSRF, 위치 공개 취약점 진단 / 보고서 작성``` 
+>- 역할 : ```정보 누출, 악성 콘텐츠, CSRF, 위치 공개 취약점 진단 / 결과보고서 작성``` 
 >
 >[프로젝트 상세 설명](https://github.com/lishuo1999/SK15_ModuleProject)
 
 ---
 
-### 5. [윈도우 침해사고 분석 보고서 작성](https://github.com/lishuo1999/SK15_Forensic_Project)
+### 5. [윈도우 침해사고 분석보고서 작성](https://github.com/lishuo1999/SK15_Forensic_Project)
 >- SK쉴더스 루키즈 15기 미니프로젝트 (팀 프로젝트)
 >
 >- 진행 기간 : ```2023.10.20 ~ 2023.10.23```  
 >- 참여 인원 : ```8명```
->- 역할 : ```침해사고 분석 / 보고서 작성``` 
+>- 역할 : ```침해사고 분석 / 분석보고서 작성``` 
 >
 >[프로젝트 상세 설명](https://github.com/lishuo1999/SK15_miniProject2)
 
@@ -91,6 +91,6 @@
 >
 >- 진행 기간 : ```2023.11 ~ 2023.12```  
 >- 참여 인원 : ```10명```
->- 역할 : ```(실습과제) Windows & Linux 침해사고 분석 및 보고서 작성``` </br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ```(팀프로젝트) Active Directory 공격 / 침해사고 분석 / 보고서 작성``` 
+>- 역할 : ```(실습과제) Windows & Linux 침해사고 분석 및 분석보고서 작성``` </br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ```(팀프로젝트) Active Directory 공격 / 침해사고 분석 / 분석보고서 작성``` 
 >
 >[프로젝트 상세 설명](https://github.com/lishuo1999/SK15_Forensic_Project)
