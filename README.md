@@ -29,7 +29,7 @@
 ## Projects
 ### 1. [기업의 정보보안 평가 도구 개발](https://github.com/lishuo1999/CapTeen_Sejong)
 >- 세종대학교 Capstone디자인  (팀 프로젝트)  
->- 진행 기간 : ```2022.3 ~ 2022.6``` 
+>- 진행 기간 : ```2022.03 ~ 2022.06``` 
 >- 참여 인원 : ```4명```
 >- 역할 : ```Front-end / Back-end``` 
 >
@@ -39,19 +39,19 @@
 
 ---
 
-### 2. [리눅스 침해사고조사 스크립트 개발](https://github.com/lishuo1999/K-Shield_D6)
+### 2. [리눅스 침해사고조사 스크립트 개발](https://github.com/lishuo1999/K-Shield_Project)
 >- 케이쉴드 주니어 8기 침해사고대응 D반 6조 (팀 프로젝트)  
->- 진행 기간 : ```2022.7 ~ 2022.8```  
+>- 진행 기간 : ```2022.07 ~ 2022.08```  
 >- 참여 인원 : ```5명```
 >- 역할 : ```User_info.py / main.py 개발``` 
 >  
 >- 기술 스택  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
 >
->[프로젝트 상세 설명](https://github.com/lishuo1999/K-Shield_D6)
+>[프로젝트 상세 설명](https://github.com/lishuo1999/K-Shield_Project)
 
 ---
 
-### 3. [슬랙 API 활용한 개인정보 유출 모니터링 서비스 개발](https://github.com/lishuo1999/SK15_miniProject1)
+### 3. [슬랙 API 활용한 개인정보 포함 여부 검사 서비스 개발](https://github.com/lishuo1999/SK15_miniProject1)
 >- SK쉴더스 루키즈 15기 미니프로젝트 (팀 프로젝트)
 >
 >- 진행 기간 : ```2023.07.20 ~ 2023.07.21```  
