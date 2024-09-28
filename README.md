@@ -16,7 +16,7 @@
 **수상 이력**
 
 >`2018.12.14`  제5회 세종대학교 SW 경시대회 4등       
->`2021.04.17-2021.05.18`  EU-Korea Intelligent IoT oneM2M Hackathon 장려상
+>`2021.04.27-2021.05.18`  EU-Korea Intelligent IoT oneM2M Hackathon 장려상
 
 </br>
 
